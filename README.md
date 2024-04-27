@@ -10,6 +10,9 @@ I'll be sharing STL files for handsets and other ACE-compatible printables right
 
 I'm not officially affiliated with ACE or any of the manufacturers I've drawn inspiration from. Please remember, these STLs are for personal use only and should not be sold. Let's have fun and keep improving together!
 
+
+Trigger Install guide (FCU): https://docs.google.com/document/d/1wyjnJ2nlZeUNjPEVYSrAvTwkhZidooACSoP6Rf-xUHw
+
 Check out ACE VR at their website https://www.acexr.com/
 
 
