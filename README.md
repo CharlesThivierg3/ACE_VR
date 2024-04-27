@@ -10,3 +10,6 @@ I'll be sharing STL files for handsets and other ACE-compatible printables right
 
 I'm not officially affiliated with ACE or any of the manufacturers I've drawn inspiration from. Please remember, these STLs are for personal use only and should not be sold. Let's have fun and keep improving together!
 
+Check out ACE VR at their website https://www.acexr.com/
+
+
