@@ -8,7 +8,7 @@ I'm excited to contribute by creating handsets that match the actual firearms us
 
 I'll be sharing STL files for handsets and other ACE-compatible printables right here. If you have any suggestions or feedback, please don't hesitate to reach out—my contact info is on my GitHub profile. 
 
-I'm not officially affiliated with ACE or any of the manufacturers I've drawn inspiration from. Please remember, these STLs are for personal use only and should not be sold. Let's have fun and keep improving together!
+I'm not affiliated with ACE or any of the manufacturers I've drawn inspiration from. Please remember, these STLs are for personal use only and should not be sold. Let's have fun and keep improving together!
 
 
 Trigger Install guide (FCU): https://docs.google.com/document/d/1wyjnJ2nlZeUNjPEVYSrAvTwkhZidooACSoP6Rf-xUHw
